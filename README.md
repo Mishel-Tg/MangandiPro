@@ -12,3 +12,18 @@ You can install Magandi via PyPI. Simply run:
 
 ## Support
 Join our Telegram support group [Support](https://t.me/XBOTSUPPORTS) for any help or queries related to Magandi.
+
+# Usage 
+
+```
+
+from Mangandi.upload import ImageUploader
+
+k = "/path/to/your/file.jpg"
+up = ImageUploader(k)
+link = up.upload()
+print(f"Image uploaded! {link}")
+```
+
+
+ 
