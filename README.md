@@ -1,2 +1,14 @@
-# MangandiPro
-Magandi seems like a cool Python package! It appears to be useful for linking videos and images. However, I'd like to clarify that the search results provided don't explicitly mention Magandi. Instead, they offer various approaches to creating videos from images
+# Magandi - Python Package
+
+Welcome to the Magandi python package repository! 🐍
+
+## Overview
+Magandi is a super cool python package that allows you to easily work with videos and images. It provides powerful tools for image and video manipulation in Python.
+
+## Installation
+You can install Magandi via PyPI. Simply run:
+
+```pip install Magandi```
+
+## Support
+Join our Telegram support group [Support](https://t.me/XBOTSUPPORTS) for any help or queries related to Magandi.
