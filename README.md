@@ -8,7 +8,7 @@ Magandi is a super cool python package that allows you to easily work with video
 ## Installation
 You can install Magandi via PyPI. Simply run:
 
-```pip install Magandi```
+```pip install Mangandi```
 
 ## Support
 Join our Telegram support group [Support](https://t.me/XBOTSUPPORTS) for any help or queries related to Magandi.
