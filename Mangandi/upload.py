@@ -26,7 +26,7 @@ class ImageUploader:
 
     def upload(self) -> str:
         response_json = self._upload()
-        if "image_url" in response_json:
-            return response_json["image_url"]
+        if "link" in response_json:
+            return response_json["link"]
         else:
             return "not found"
