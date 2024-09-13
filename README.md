@@ -17,7 +17,7 @@ Join our Telegram support group [Support](https://t.me/XBOTSUPPORTS) for any hel
 
 ```
 
-from Mangandi.upload import ImageUploader
+from Mangandi import ImageUploader
 
 k = "/path/to/your/file.jpg"
 up = ImageUploader(k)
@@ -29,7 +29,7 @@ print(f"Image uploaded! {link}")
 # Sample pyrogram code
 
 ```
-from Mangandi.upload import ImageUploader
+from Mangandi import ImageUploader
 
 k = await message.reply_to_message.download()
 up = ImageUploader(k)
