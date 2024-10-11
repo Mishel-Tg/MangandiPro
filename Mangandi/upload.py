@@ -2,7 +2,7 @@ import requests
 from typing import Union
 
 class ImageUploader:
-    URL = "https://mangandi.onrender.com"
+    URL = "https://mangandi-2-0.onrender.com"
 
     def __init__(self, file_path: str):
         self.file_path = file_path
