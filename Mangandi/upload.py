@@ -15,7 +15,7 @@ class ImageUploader:
         data = self._read_file()
         files = {"file": data}
         response = requests.post(
-            f"{self.URL}/upload",
+            f"{self.URL}/pupload",
             files=files
         )
 
