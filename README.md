@@ -25,16 +25,3 @@ link = up.upload()
 print(f"Image uploaded! {link}")
 ```
 
-
-# Sample pyrogram code
-
-```
-from Mangandi import ImageUploader
-
-k = await message.reply_to_message.download()
-up = ImageUploader(k)
-link = up.upload()
-print(f"Image uploaded! {link}")
-```
-
- 
