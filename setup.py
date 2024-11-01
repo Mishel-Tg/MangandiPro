@@ -54,7 +54,7 @@ setup(
     project_urls={
         "Tracker": "https://github.com/Mishel-Tg/MangandiPro/issues",
         "Community": "https://t.me/XBOTSUPPORTS",
-        "Source": "https://github.com/MangandiPro/HorridAPI",
+        "Source": "https://github.com/Mishel-Tg/MangandiPro",
     },
     python_requires="~=3.7",
   )
