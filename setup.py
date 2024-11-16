@@ -16,17 +16,17 @@ with open("README.md", encoding="utf8") as readme:
 setup(
     name="Mangandi",
     version=version(),
-    author="mishel",
-    author_email="narutomalayalam@gmail.com",
-    description="Asynchronous Python Wrapper For Mangandi",
+    author="Mishel",
+    author_email="mishel@gmail.temb",
+    description="Python Wrapper For Mangandi",
     long_description_content_type="text/markdown",
     long_description=long_desc,
     packages=find_packages(),
     license="MIT",
-    url="https://github.com/Mishel-Tg/MangandiPro",
-    download_url="https://github.com/Mishel-Tg/MangandiPro/blob/main/README.md",
+    url="https://github.com/Mishel-07/MangandiPro",
+    download_url="https://github.com/Mishel-07/MangandiPro/blob/main/README.md",
     install_requires=["requests"],
-    keywords=['python', "HorridAPI","mrz_bots", "telegram", "WhatsAppbot"],
+    keywords=['python'],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
@@ -52,9 +52,9 @@ setup(
     ],
     
     project_urls={
-        "Tracker": "https://github.com/Mishel-Tg/MangandiPro/issues",
+        "Tracker": "https://github.com/Mishel-07/MangandiPro/issues",
         "Community": "https://t.me/XBOTSUPPORTS",
-        "Source": "https://github.com/Mishel-Tg/MangandiPro",
+        "Source": "https://github.com/Mishel-07/MangandiPro",
     },
     python_requires="~=3.7",
   )
